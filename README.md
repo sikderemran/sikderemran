@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Md.Emran Sikder
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m a Full Stack Web Developer
+- 👀 Looking For a Job
