@@ -6,7 +6,7 @@ const emran = {
     codeWith: ["Javascript", "Python", "PHP","c++"],
     askMeAbout: ["SoftWare Engineer"],
     technologies: {
-        backEnd: ["Pthon", "PHP"],
+        backEnd: ["Python", "PHP"],
         backEndFramework: ["Django",Laravel"],
         frontEnd: [HTML5", "CSS3","JS/ES"],
         frontEndLibrary: ["React",jQuery","Bootstrap"],
