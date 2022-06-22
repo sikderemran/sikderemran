@@ -7,7 +7,7 @@ const emran = {
     askMeAbout: ["SoftWare Engineer"],
     technologies: {
         backEnd: ["Python", "PHP"],
-        backEndFramework: ["Django",Laravel"],
+        backEndFramework: ["Django","Laravel"],
         frontEnd: ["HTML5", "CSS3","JS/ES"],
         frontEndLibrary: ["React","jQuery","Bootstrap"],
         database: ["Oracle", "MySql", "SqlServer"]
