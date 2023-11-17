@@ -14,7 +14,7 @@ const emran = {
     },
     softwareArchitecturePattern: ["Microservices Architecture","MVC Architecture","MVT Architecture","Single page applications"],
     softwareDesignPattern: ["Repository Pattern","Factory Pattern"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    codingInsight: "In programming, the hard part isn't solving problems, but deciding what problems to solve"
 };
 ```
 
